@@ -1,4 +1,7 @@
-# picidae-transformer-mark
+# picidae-transformer-mark (outdated)
+# **Please Move to [`remark-mark`](https://github.com/imcuttle/remark-mark)**
+
+
 
 Transform markdown syntax `==mark==` to `<mark>mark</mark>`
 
